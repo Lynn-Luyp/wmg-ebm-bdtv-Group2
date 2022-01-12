@@ -8,11 +8,13 @@ JIAOHAO SHANG(2087608)
 XINAN LI(2090506)
 
 * members of mongodb part:  
+RONGYU WU()
 RUIXIN HU(2135790)
+MOIZ MASHADI MASHADI(2149912)
 
 
 * members of data visualisation part:  
-ZIMING GUO(2127468)
+ZIMING GUO(2127468)  
 CHENG CHEN(2119283)
 
 
