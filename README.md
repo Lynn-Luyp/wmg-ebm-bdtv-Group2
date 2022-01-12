@@ -30,7 +30,7 @@ We have generated 5 csv files and 5 different dataframe:
 
 
 ## Code of python 
-All our python codes are saved in this notebook: [IMA-API](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/IMA%20API.ipynb)
+All our python codes are saved in this notebook: [BDTV IMA Group2](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/BDTV%20IMA%20Group%202.ipynb)
 
 
 
