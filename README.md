@@ -27,7 +27,7 @@ We have generated 5 csv files and 5 different dataframe:
 * [df_population_2019](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/df_population_2019.csv) : the population data of every state in 2019(latest)
 * [COVID](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/COVID.png) : the positive cases of every state
 * [general_COVID](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/general_COVID.png)  : the positive cases of every day in last 7 days
-* Our brilliant powerpoint()! 
+* Our brilliant powerpoint [ppt](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/IMA%20group%202.pptx)! 
 
 ## Code of python 
 All our python codes are saved in this notebook: [BDTV IMA Group2](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/BDTV%20IMA%20Group%202.ipynb)
