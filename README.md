@@ -6,11 +6,14 @@ Welcome! This is the repository for bdtv-Group2
 YUNPENG LU(2014873)  
 JIAOHAO SHANG(2087608)  
 XINAN LI(2090506)
+
 * members of mongodb part:  
+RUIXIN HU(2135790)
 
 
 * members of data visualisation part:  
 ZIMING GUO(2127468)
+CHENG CHEN(2119283)
 
 
 ## Description of data files
