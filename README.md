@@ -22,7 +22,7 @@ We have generated 5 csv files and 5 different dataframe:
 * [df_population_2019](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/df_population_2019.csv) : the population data of every state in 2019(latest)
 
 ## Code of python 
-We created a notebook file named [IMA-API](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/IMA%20API.ipynb)
+All our python codes are saved in this notebook: [IMA-API](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/IMA%20API.ipynb)
 
 
 
