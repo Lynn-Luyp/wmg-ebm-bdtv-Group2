@@ -1,7 +1,6 @@
 # wmg-ebm-bdtv-Group2
 Welcome! This is the repository for bdtv-Group2
 
-
 ## The team is divided as follows
 * members of API part:   
 YUNPENG LU(2014873)  
@@ -9,9 +8,9 @@ JIAOHAO SHANG(2087608)
 XINAN LI(2090506)
 * members of mongodb part:  
 
+
 * members of data visualisation part:  
 ZIMING GUO(2127468)
-
 
 
 ## Description of data files
@@ -23,7 +22,7 @@ We have generated 5 csv files and 5 different dataframe:
 * df_population_2019: the population data of every state in 2019(latest)
 
 ## Code of python 
-[]
+We created a notebook file named [IMA-API](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/IMA%20API.ipynb)
 
 
 
