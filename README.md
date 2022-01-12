@@ -25,6 +25,9 @@ We have generated 5 csv files and 5 different dataframe:
 * [df_county](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/df_county.csv) : the data of every county and every state(Longitude and latitude are important to use in data visualisation part)  
 * [county_data](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/county_data.csv) : the covid data of every county in last 7 days  
 * [df_population_2019](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/df_population_2019.csv) : the population data of every state in 2019(latest)
+* [COVID](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/COVID.png) : the positive cases of every state
+* [general_COVID](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/general_COVID.png)  : the positive cases of every day in last 7 days
+
 
 ## Code of python 
 All our python codes are saved in this notebook: [IMA-API](https://github.com/Lynn-Luyp/wmg-ebm-bdtv-Group2/blob/main/IMA%20API.ipynb)
